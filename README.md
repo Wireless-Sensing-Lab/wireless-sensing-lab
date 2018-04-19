@@ -1,8 +1,12 @@
 # Wireless-Sensing-Lab
-Hands-on 2
+# Hands-on 2
 
-##Writeup Template
-###You can use this file as a template for your writeup if you want to submit it as a markdown file, but feel free to use some other method and submit a pdf if you prefer.
+In current laboratory work you will learn how to:
+1. Extract image features
+2. Choose and train the classifier
+3. Implement Sliding Window Technique
+4. Create the final Video output
+5. Work with Intel Movidius Neural Computer Stick
 
 ---
 
